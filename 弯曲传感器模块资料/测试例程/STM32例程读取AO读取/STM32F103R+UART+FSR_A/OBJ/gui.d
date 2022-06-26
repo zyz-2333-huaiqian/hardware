@@ -1,0 +1,16 @@
+..\OBJ\gui.o: ..\MyCode\TFT\GUI.c
+..\OBJ\gui.o: ..\USER\stm32f10x.h
+..\OBJ\gui.o: ..\CORE\core_cm3.h
+..\OBJ\gui.o: E:\MDK4.70A\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\gui.o: ..\USER\system_stm32f10x.h
+..\OBJ\gui.o: ..\USER\stm32f10x_conf.h
+..\OBJ\gui.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\OBJ\gui.o: ..\USER\stm32f10x.h
+..\OBJ\gui.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\OBJ\gui.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\OBJ\gui.o: ..\STM32_FWLIB\inc\misc.h
+..\OBJ\gui.o: ..\MyCode\TFT\Lcd_Driver.h
+..\OBJ\gui.o: ..\MyCode\TFT\GUI.h
+..\OBJ\gui.o: ..\SYSTEM\delay\delay.h
+..\OBJ\gui.o: ..\SYSTEM\sys\sys.h
+..\OBJ\gui.o: ..\MyCode\TFT\font.h

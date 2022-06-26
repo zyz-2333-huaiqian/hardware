@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "d:\\大一下\\硬设\\硬设大赛\\弯曲传感器模块资料\\测试例程\\ARDUINO例程读取AO读取\\FLEX-SENSOR",
+      "environment": [],
+      "program": "d:\\大一下\\硬设\\硬设大赛\\弯曲传感器模块资料\\测试例程\\ARDUINO例程读取AO读取\\FLEX-SENSOR\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
