@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\oled.obj",
+".\Objects\DS18B20.obj" 
+TO ".\Objects\FLEX_caiji" 
+PRINT(".\Listings\FLEX_caiji.m51") RAMSIZE(256) 

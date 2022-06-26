@@ -1,0 +1,14 @@
+..\OBJ\key.o: ..\MyCode\KEY\key.c
+..\OBJ\key.o: ..\USER\stm32f10x.h
+..\OBJ\key.o: ..\CORE\core_cm3.h
+..\OBJ\key.o: E:\2.DevelopSoft\MDK4.70A\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\key.o: ..\USER\system_stm32f10x.h
+..\OBJ\key.o: ..\USER\stm32f10x_conf.h
+..\OBJ\key.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\OBJ\key.o: ..\USER\stm32f10x.h
+..\OBJ\key.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\OBJ\key.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\OBJ\key.o: ..\STM32_FWLIB\inc\misc.h
+..\OBJ\key.o: ..\MyCode\KEY\key.h
+..\OBJ\key.o: ..\SYSTEM\sys\sys.h
+..\OBJ\key.o: ..\SYSTEM\delay\delay.h

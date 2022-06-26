@@ -1,0 +1,15 @@
+..\OBJ\lcd_driver.o: ..\MyCode\TFT\Lcd_Driver.c
+..\OBJ\lcd_driver.o: ..\USER\stm32f10x.h
+..\OBJ\lcd_driver.o: ..\CORE\core_cm3.h
+..\OBJ\lcd_driver.o: E:\MDK4.70A\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\lcd_driver.o: ..\USER\system_stm32f10x.h
+..\OBJ\lcd_driver.o: ..\USER\stm32f10x_conf.h
+..\OBJ\lcd_driver.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\OBJ\lcd_driver.o: ..\USER\stm32f10x.h
+..\OBJ\lcd_driver.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\OBJ\lcd_driver.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\OBJ\lcd_driver.o: ..\STM32_FWLIB\inc\misc.h
+..\OBJ\lcd_driver.o: ..\MyCode\TFT\Lcd_Driver.h
+..\OBJ\lcd_driver.o: ..\MyCode\TFT\LCD_Config.h
+..\OBJ\lcd_driver.o: ..\SYSTEM\delay\delay.h
+..\OBJ\lcd_driver.o: ..\SYSTEM\sys\sys.h
